@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TESTS="SolidityERC20 SolidityAuctionRegistrar SolidityFixedFeeRegistrar SolidityEndToEndTest/complex_accessors"
+TESTS="SolidityERC20"
 
 for t in $TESTS
 do
